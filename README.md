@@ -6,7 +6,7 @@ Not bulletproof design. Made for exploring the concept of stack data structure i
 
 When you run the game script you have to declare the number of disks on left stack.
 Then on every iteration game asks you for stack you want to take disk and the destination stack.
-Also checking if first stack is empty and if user typed correct data.
+Also checking if the first stack is empty and if user typed correct data.
 
 Optimal solution came from this equation: 2^(number of disks)-1
 
